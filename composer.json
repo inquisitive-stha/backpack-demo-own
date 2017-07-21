@@ -23,7 +23,7 @@
         "phpunit/phpunit": "~5.7",
         "symfony/css-selector": "2.8.*|3.0.*",
         "symfony/dom-crawler": "2.8.*|3.0.*",
-        "laracasts/generators": "dev-master",
+        "laracasts/generators": "dev-master as 1.1.4",
         "backpack/generators": "^1.1"
     },
     "autoload": {
